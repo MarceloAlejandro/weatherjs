@@ -85,7 +85,7 @@ Check out Brad's video on basic command lines
     * Python Microsoft
       * it gives you everything you need for Python
 
-# Version control
+# Version control - local repository
   * go to your github account
   * click the + icon - New Repository
   * Click on the version control
@@ -96,6 +96,19 @@ Check out Brad's video on basic command lines
   * commit all
     * it will ask us for a commit message* 
     * initial commit
+
+# Version control - pushing to Github  
+  * git remote add origin https://github.com/MarceloAlejandro/weatherjs.git
+  * open the terminal
+  * copy-paste
+    * git remote add origin https://github.com/MarceloAlejandro/weatherjs.git
+  * click up here '...'
+  * click 'push to'
+
+
+# Version control - changing something
+  * click up here '...'
+  * commit stage
 
 
 
