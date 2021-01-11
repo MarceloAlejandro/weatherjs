@@ -110,5 +110,7 @@ Check out Brad's video on basic command lines
   * click up here '...'
   * commit stage
 
+# Version control - gitignore file
+
 
 
